@@ -1,9 +1,9 @@
-**Name:** B Kumuda
-**Company:** CODTECH IT SOLUTIONS
-**ID:** CT08DS8360
-**Domain:** Front-End Development
-**Duration:** September to October 2024
-**Mentor:** Neela Santhosh Kumar
+- **Name:** B Kumuda
+- **Company:** CODTECH IT SOLUTIONS
+- **ID:** CT08DS8360
+- **Domain:** Front-End Development
+- **Duration:** September to October 2024
+- **Mentor:** Neela Santhosh Kumar
 
 ## Overview of the Project 
 
